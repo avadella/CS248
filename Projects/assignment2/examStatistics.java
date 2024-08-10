@@ -1,4 +1,4 @@
-package Projects;
+package Projects.assignment2;
 //Assignment #2: Exam Statistics Program (ESP) - program will compute statistics from a list of exam scores
 import java.io.*; 
 import java.util.*; 

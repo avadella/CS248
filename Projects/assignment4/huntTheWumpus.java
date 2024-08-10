@@ -1,4 +1,4 @@
-package Projects;
+package Projects.assignment4;
 //Assignment #4: Hunt The Wumpus!
 //Written by Anna Vadella and Noah Baker
 import java.io.*;
@@ -201,6 +201,7 @@ public class huntTheWumpus
 						break; 
 					} 
 					else
+					{
 						roomNumber = holdCurrent; 
 						System.out.println(" "); 
 						System.out.println("Your arrow goes down the tunnel and is lost. You missed."); 
@@ -208,6 +209,8 @@ public class huntTheWumpus
 						arrowAmount--; 
 						arrowLost(); 
 						break; 
+					}
+						
 				} 
 				else if (roomInput == adjacent2)
 				{ 
@@ -224,6 +227,7 @@ public class huntTheWumpus
 						break;
 					}
 					else 
+					{
 						roomNumber = holdCurrent; 
 						System.out.println(" "); 
 						System.out.println("Your arrow goes down the tunnel and is lost. You missed."); 
@@ -231,6 +235,8 @@ public class huntTheWumpus
 						arrowAmount--; 
 						arrowLost(); 
 						break; 
+					}
+						
 				} 
 				else if (roomInput == adjacent3) 
 				{ 
@@ -247,6 +253,7 @@ public class huntTheWumpus
 						break; 
 					} 
 					else 
+					{
 						roomNumber = holdCurrent; 
 						System.out.println(" "); 
 						System.out.println("Your arrow goes down the tunnel and is lost. You missed."); 
@@ -254,6 +261,8 @@ public class huntTheWumpus
 						arrowAmount--; 
 						arrowLost(); 
 						break; 
+					}
+						
 				} 
 				else 
 				{

@@ -1,4 +1,4 @@
-package Projects;
+package Projects.assignment4;
 //wumpusRooms class
 import java.util.*; 
 

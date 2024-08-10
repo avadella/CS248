@@ -1,4 +1,4 @@
-package Projects;
+package Projects.assignment3;
 //Asignment #3: The Dating Game
 //Dating Game Class 
 

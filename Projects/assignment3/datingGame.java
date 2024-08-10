@@ -1,4 +1,4 @@
-package Projects;
+package Projects.assignment3;
 //Assignment #3: The Dating Game Program
 import java.io.*; 
 
