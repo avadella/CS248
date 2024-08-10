@@ -1,6 +1,5 @@
 package Projects;
 //Assignment #1: Guessing Game Program - program picks random number between 1 and 100 and asks user to guess value
-
 import java.io.*; 
 import java.util.*; 
 
