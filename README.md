@@ -5,8 +5,7 @@ Professor: Dr. Jon Sorenson\
 
 ## Description
 This repository contains all of the projects from my CS248 course taken at Butler University during the 2022 spring semester. 
-This course served as an introduction to object-oriented programming using Java. Topics covered included recursion, stack, queue, tree, and heap data structures, sorting algorithms, and GUI programming.\
-The "projects" folder contains the original code from the spring 2022 semester, while the "updated projects" folder features revised versions with some improvements and optimizations.
+This course served as an introduction to object-oriented programming using Java. Topics covered included recursion, stack, queue, tree, and heap data structures, sorting algorithms, and GUI programming.
 
 ## Projects 
 1. The Guessing Game
